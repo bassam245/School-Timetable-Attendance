@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\source\\repos\\Demo5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|c:\\users\\msi\\source\\repos\\demo5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|c:\\users\\msi\\source\\repos\\demo5\\attendancequeuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|solutionrelative:attendancequeuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|c:\\users\\msi\\source\\repos\\demo5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|c:\\users\\msi\\source\\repos\\demo5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|c:\\users\\msi\\source\\repos\\demo5\\timetablemange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|solutionrelative:timetablemange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|c:\\users\\msi\\source\\repos\\demo5\\timetableentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|solutionrelative:timetableentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|c:\\users\\msi\\source\\repos\\demo5\\teachar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA373AEB-1915-490A-8D2C-5AE905AF160C}|Demo5.csproj|solutionrelative:teachar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceQueueManager.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\Demo5\\AttendanceQueueManager.cs",
+              "RelativeDocumentMoniker": "AttendanceQueueManager.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\Demo5\\AttendanceQueueManager.cs",
+              "RelativeToolTip": "AttendanceQueueManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:25:09.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Timetablemange.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\Demo5\\Timetablemange.cs",
+              "RelativeDocumentMoniker": "Timetablemange.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\Demo5\\Timetablemange.cs",
+              "RelativeToolTip": "Timetablemange.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:24:36.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Timetableentry.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\Demo5\\Timetableentry.cs",
+              "RelativeDocumentMoniker": "Timetableentry.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\Demo5\\Timetableentry.cs",
+              "RelativeToolTip": "Timetableentry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:24:06.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teachar.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\Demo5\\Teachar.cs",
+              "RelativeDocumentMoniker": "Teachar.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\Demo5\\Teachar.cs",
+              "RelativeToolTip": "Teachar.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:23:31.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\Demo5\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\Demo5\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:23:02.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\Demo5\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\Demo5\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:22:29.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\Demo5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\Demo5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:21:47.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
